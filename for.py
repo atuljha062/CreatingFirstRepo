@@ -1,2 +1,1 @@
-for i in range(5):
-    print("What's up")
+print("Done with for loops")
